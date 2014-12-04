@@ -1,0 +1,14 @@
+{
+    "name": "turusuke.ghost",
+    "title": "Ghost",
+    "description": "Simple and Dark Theme",
+    "homepage": "https://github.com/turusuke/ghost",
+    "version": "1.0.0",
+    "author": "turusuke <mail@turusuke.com> (https://twitter.com/turusuke)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    },
+    "keywords": ["theme"]
+}
